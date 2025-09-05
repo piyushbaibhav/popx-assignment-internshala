@@ -17,8 +17,8 @@ const ProfileScreen = () => {
           <div className="camera-icon">📷</div>
         </div>
         <div className="profile-info">
-          <h3>Yashraj Singh Thakur</h3>
-          <p>yashrajsinghthakur23@gmail.com</p>
+          <h3>Piyush baibhav</h3>
+          <p>piyushbaibhav12@gmail.com</p>
         </div>
       </div>
       
